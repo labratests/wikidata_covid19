@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-04T17:14:30.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="pmLq0lnwjb_LGS6auJ6O" version="12.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-04T17:25:26.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="dsrFdeccos-papvGixso" version="12.9.7" type="github">
   <diagram id="iN2FZxqOP-rsaXKL87AC" name="Page-1">
     <mxGraphModel dx="1038" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,10 +7,10 @@
         <mxCell id="4y4krPw2brmuDEfKpL6Q-1" value="Wikidata" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="230" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="4y4krPw2brmuDEfKpL6Q-2" value="Wikipathways" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
+        <mxCell id="4y4krPw2brmuDEfKpL6Q-2" value="WikiPathways" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="360" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="4y4krPw2brmuDEfKpL6Q-3" value="BridgeDB&lt;br&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
+        <mxCell id="4y4krPw2brmuDEfKpL6Q-3" value="BridgeDb" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="360" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4y4krPw2brmuDEfKpL6Q-4" value="NCBIUtils" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
