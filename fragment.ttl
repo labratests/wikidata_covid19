@@ -1,0 +1,32 @@
+@prefix pq:    <http://www.wikidata.org/prop/qualifier/> .
+@prefix pr:    <http://www.wikidata.org/prop/reference/> .
+@prefix ps:    <http://www.wikidata.org/prop/statement/> .
+@prefix wdt:   <http://www.wikidata.org/prop/direct/> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix wd:    <http://www.wikidata.org/entity/> .
+@prefix p:     <http://www.wikidata.org/prop/> .
+@prefix ref:   <http://www.wikidata.org/reference/> .
+@prefix s:     <http://www.wikidata.org/entity/statement/> .
+@prefix prv:   <http://www.wikidata.org/prop/reference/value/> .
+@prefix v:     <http://www.wikidata.org/value/> .
+@prefix prov:  <http://www.w3.org/ns/prov#> .
+
+wd:Q254943  p:P680  s:Q254943-59797D3A-4DB4-47AB-887D-5B2790C1F831 ;
+        wdt:P680  wd:Q14901431 .
+
+ref:ec75c10f577dbcf2c8f5310d4ca592d6578bb93a
+        a         wikibase:Reference ;
+        pr:P1640  wd:Q4970039 ;
+        pr:P248   wd:Q24339631 , wd:Q28018111 ;
+        pr:P459   wd:Q23174122 ;
+        pr:P813   "2019-04-08T00:00:00Z"^^xsd:dateTime ;
+        pr:P854   <http://www.ebi.ac.uk/QuickGO/annotations?geneProductId=UniProtKB:P10276> ;
+        prv:P813  v:b441aa14f32ad7a9e6fe04eb80002b4c .
+
+s:Q254943-59797D3A-4DB4-47AB-887D-5B2790C1F831
+        a                    wikibase:Statement , wikibase:BestRank ;
+        wikibase:rank        wikibase:NormalRank ;
+        prov:wasDerivedFrom  ref:ec75c10f577dbcf2c8f5310d4ca592d6578bb93a ;
+        pq:P459              wd:Q23174122 ;
+        ps:P680              wd:Q14901431 .
